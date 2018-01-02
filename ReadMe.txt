@@ -10,9 +10,10 @@
 			A Brief Overview Of The Features:
 
 			1.Sync Your Calendar:
-				Here you can sync your calendar by giving a csv file with dates and events as an input to the program.
-				The csv file must be present in the "Sync Files Folder".
-				Input provided is the name( with .csv extension ) of the csv file.
+				Here you can sync your calendar by giving a csv file with dates and events as an
+				input to the program.
+				The csv file must be present in the "Sync Files" folder(that must be created by the user).
+				Input provided is the name of the csv file(with .csv extension).
 
 			2.Create A Note:
 				This feature allows you to enter a note for personal reference.
